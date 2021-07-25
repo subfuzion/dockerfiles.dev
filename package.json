@@ -1,5 +1,5 @@
 {
-  "name": "dockerfiles-for-developers",
+  "name": "dockerfiles.dev",
   "version": "0.0.1",
   "description": "",
   "main": "none.js",
@@ -10,12 +10,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/subfuzion/dockerfiles-for-developers.git"
+    "url": "git+https://github.com/subfuzion/dockerfiles.dev.git"
   },
   "author": "",
   "license": "Apache-2.0",
   "bugs": {
-    "url": "https://github.com/subfuzion/dockerfiles-for-developers/issues"
+    "url": "https://github.com/subfuzion/dockerfiles.dev/issues"
   },
   "homepage": "https://dockerfiles.dev",
   "devDependencies": {
