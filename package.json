@@ -20,7 +20,7 @@
   "homepage": "https://dockerfiles.dev",
   "devDependencies": {
     "autoprefixer": "^10.3.1",
-    "postcss": "^8.0.0",
+    "postcss": "^8.3.7",
     "postcss-cli": "^8.3.1"
   }
 }
